@@ -1,0 +1,8 @@
+langchain
+langchain.community #Extending LangChain with community-driven tools
+langchain_google_genai  #Integrating Google’s GenAI APIs with LangChain
+langchain_groq #High-performance LangChain applications with Groq hardware
+pypdf #PDF manipulation and text extraction	
+faiss-cpu #Vector similarity search and clustering	
+streamlit #Building interactive Python-based web apps	
+python-dotenv #Managing environment variables	
